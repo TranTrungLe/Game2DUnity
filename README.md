@@ -1,5 +1,7 @@
 Giao diện game
+
 ![image](https://user-images.githubusercontent.com/44593404/105666738-832ddf80-5f0c-11eb-9432-bc153d859e41.png)
+
 Giao diện Play Game
 ![image](https://user-images.githubusercontent.com/44593404/105666769-92149200-5f0c-11eb-9a37-9fac782fddf7.png)
 ![image](https://user-images.githubusercontent.com/44593404/105666800-a5276200-5f0c-11eb-86db-70dad915d60b.png)
