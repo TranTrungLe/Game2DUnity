@@ -11,4 +11,5 @@ Giao diện Play Game
 ![image](https://user-images.githubusercontent.com/44593404/105666838-b4a6ab00-5f0c-11eb-9943-55b73a573901.png)
 
 Pause Menu
+
 ![image](https://user-images.githubusercontent.com/44593404/105666781-980a7300-5f0c-11eb-8223-8f48ef35f94b.png)
